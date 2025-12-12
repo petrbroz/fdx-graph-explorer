@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> The project has moved to https://github.com/autodesk-platform-services/fdx-graph-explorer.
+
+---
+
 # fdx-graph-explorer
 
 Simple explorer of [Autodesk Forge](https://forge.autodesk.com) Exchanges and their graphs.
